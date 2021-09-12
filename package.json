@@ -1,0 +1,68 @@
+{
+  "_from": "krisp-api-ngrok",
+  "_id": "krisp-api-ngrok@1.0.6",
+  "_inBundle": false,
+  "_integrity": "sha512-WBAQNxcbrSU/3piM58wapXfk8jQbdMP2t9w3GH/UNP/9qXNMaLfDHEgfj7TRjXDJxynJtLPxD37OPDeUnMwcgg==",
+  "_location": "/krisp-api-ngrok",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "krisp-api-ngrok",
+    "name": "krisp-api-ngrok",
+    "escapedName": "krisp-api-ngrok",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/krisp-api-ngrok/-/krisp-api-ngrok-1.0.6.tgz",
+  "_shasum": "ed950145a94666b1225ce019502fdf5feaf6aae5",
+  "_spec": "krisp-api-ngrok",
+  "_where": "C:\\Users\\User 1\\Downloads\\krisp api",
+  "author": {
+    "name": "Melik Karapetyan"
+  },
+  "bugs": {
+    "url": "https://github.com/2hzai/node-krisp-api/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "glob": "^7.1.3",
+    "ngrok": "^3.1.0",
+    "winston": "^3.1.0"
+  },
+  "deprecated": false,
+  "description": "Simple nodejs module for interacting with Krisp API",
+  "homepage": "https://github.com/2hzai/node-krisp-api#readme",
+  "keywords": [
+    "node",
+    "krisp",
+    "2hz",
+    "api",
+    "noise",
+    "suppression",
+    "voice",
+    "breakup",
+    "recovery",
+    "bandwidth",
+    "expansion",
+    "plc."
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "krisp-api-ngrok",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2hzai/node-krisp-api.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.6"
+}
